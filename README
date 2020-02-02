@@ -1,0 +1,13 @@
+﻿This is a project just for test and show my competencies in very short time. I tried to use some useful frameworks and tools which are popular these days.
+
+Indeed, the solution is not complete and there could be a lot of thing to be added in a real situation. I just wanted to show some part of my competencies such as async programing, using frameworks, testing, etc.
+
+In this project I used Java 11, Spring boot, Swagger and Junit for a small test.
+
+I assumed that the Rest APIs in the context work and I just prepared another one for the merged result.
+
+For calling the API just use bellow URL:
+
+http://localhost:8080/json-merge/{userId}
+
+Thank you for your consideration.
